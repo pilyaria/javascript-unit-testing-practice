@@ -1,0 +1,25 @@
+{
+  "name": "epam-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "c8 npm test",
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.57.1",
+    "eslint": "^8.57.1",
+    "globals": "^17.7.0"
+  },
+  "dependencies": {
+    "c8": "^11.0.0",
+    "chai": "^4.5.0",
+    "mocha": "^11.7.6",
+    "mochawesome": "^7.1.4"
+  }
+}
