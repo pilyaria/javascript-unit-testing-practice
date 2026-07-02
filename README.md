@@ -1,5 +1,11 @@
 # JavaScript Unit Testing Practice
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Node](https://img.shields.io/badge/Node.js-22.x-green)
+![Mocha](https://img.shields.io/badge/Test-Mocha-brown)
+![Chai](https://img.shields.io/badge/Assertions-Chai-red)
+![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
+
 A learning project demonstrating unit testing in JavaScript using Mocha and Chai.
 
 ## Technologies
