@@ -94,3 +94,10 @@ Implemented tests for:
 - Even number validation
 - Array validation
 - Exception handling
+
+---
+
+## Links
+
+- [GitHub Repository](https://github.com/pilyaria/javascript-unit-testing-practice)
+- [Live Mochawesome Report](https://pilyaria.github.io/javascript-unit-testing-practice/)
