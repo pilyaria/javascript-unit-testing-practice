@@ -46,6 +46,14 @@ Current project coverage:
 
 ---
 
+## Live Test Report
+
+You can view the published Mochawesome report here:
+
+[View Mochawesome Report](https://pilyaria.github.io/javascript-unit-testing-practice/)
+
+---
+
 ## Run the project
 
 Install dependencies
