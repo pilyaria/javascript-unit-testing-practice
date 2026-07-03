@@ -27,7 +27,7 @@ A learning project demonstrating unit testing in JavaScript using Mocha and Chai
 
 ## Test Results
 
-18 unit tests successfully passed.
+80 unit tests successfully passed.
 
 ![Test Report](images/mochawesome-report.png)
 
@@ -93,6 +93,18 @@ Implemented tests for:
 - Integer validation
 - Even number validation
 - Array validation
+- Exception handling
+- Date Validator
+
+---
+
+## Testing Techniques
+
+- Positive testing
+- Negative testing
+- Boundary value analysis
+- Edge case testing
+- Parameterized tests
 - Exception handling
 
 ---
