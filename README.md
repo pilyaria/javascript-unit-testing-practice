@@ -25,6 +25,29 @@ A learning project demonstrating unit testing in JavaScript using Mocha and Chai
 
 ---
 
+## Project Overview
+
+This project demonstrates automated unit testing in JavaScript using Mocha and Chai.
+
+Implemented validators:
+
+- Calculator
+- NumbersValidator
+- StringValidator
+- DateValidator
+
+The project includes:
+
+- 80 automated tests
+- 100% code coverage
+- HTML test reports (Mochawesome)
+- Data-driven tests
+- Boundary Value Analysis
+- Edge Case testing
+- Exception handling tests
+
+---
+
 ## Test Results
 
 80 unit tests successfully passed.
@@ -100,12 +123,15 @@ Implemented tests for:
 
 ## Testing Techniques
 
-- Positive testing
-- Negative testing
-- Boundary value analysis
-- Edge case testing
-- Parameterized tests
-- Exception handling
+This project demonstrates several software testing techniques:
+
+- ✅ Positive Testing
+- ✅ Negative Testing
+- ✅ Boundary Value Analysis (BVA)
+- ✅ Edge Case Testing
+- ✅ Exception Testing
+- ✅ Data-driven Testing
+- ✅ Code Coverage Analysis
 
 ---
 
