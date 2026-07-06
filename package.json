@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha",
     "coverage": "c8 npm test",
-    "lint": "eslint . --fix"
+    "lint": "eslint app src test --fix"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.1",
