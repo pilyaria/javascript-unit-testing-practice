@@ -8,14 +8,32 @@
 
 A learning project demonstrating unit testing in JavaScript using Mocha and Chai.
 
-## Technologies
+## Technology Stack
 
 - JavaScript (ES6)
 - Node.js
 - Mocha
 - Chai
-- NYC (Code Coverage)
+- NYC
 - Mochawesome
+- ESLint
+- Git
+- GitHub Pages
+
+---
+
+## Skills Demonstrated
+
+- Writing unit tests
+- Test automation
+- Assertion libraries
+- Exception testing
+- Data-driven testing
+- Boundary Value Analysis
+- Edge Case testing
+- Code coverage analysis
+- Git & GitHub
+- Continuous project documentation
 
 ---
 
@@ -48,6 +66,14 @@ The project includes:
 
 ---
 
+## About this project
+
+This project was created to practice JavaScript unit testing and demonstrate software testing techniques used in real QA Automation projects.
+
+It includes validators, structured test suites, data-driven tests, exception handling, boundary value analysis, edge case testing and full code coverage reporting.
+
+---
+
 ## Test Results
 
 80 unit tests successfully passed.
@@ -66,6 +92,19 @@ Current project coverage:
 - Lines: **100%**
 
 ![Coverage](images/coverage.png)
+
+---
+
+## Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| Validators | 4 |
+| Tested methods | 13 |
+| Test suites | 29 |
+| Test cases | 80 |
+| Coverage | 100% |
+| Failed tests | 0 |
 
 ---
 
@@ -97,15 +136,9 @@ Generate coverage
 npm run coverage
 ```
 
-Generate Mochawesome report
-
-```bash
-npm run test
-```
-
 ---
 
-## Learning Goals
+## Implemented Components
 
 This project was created as part of JavaScript Unit Testing practice.
 
