@@ -6,7 +6,7 @@
 ![Chai](https://img.shields.io/badge/Assertions-Chai-red)
 ![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
 
-A learning project demonstrating unit testing in JavaScript using Mocha and Chai.
+This repository showcases practical JavaScript unit testing skills and modern testing techniques commonly used in QA Automation.
 
 ## Technology Stack
 
@@ -19,21 +19,22 @@ A learning project demonstrating unit testing in JavaScript using Mocha and Chai
 - ESLint
 - Git
 - GitHub Pages
+- GitHub Actions
 
 ---
 
 ## Skills Demonstrated
 
-- Writing unit tests
+- Unit testing
 - Test automation
-- Assertion libraries
-- Exception testing
+- Assertion libraries (Chai)
 - Data-driven testing
-- Boundary Value Analysis
+- Exception testing
+- Boundary Value Analysis (BVA)
 - Edge Case testing
 - Code coverage analysis
 - Git & GitHub
-- Continuous project documentation
+- Project documentation
 
 ---
 
@@ -45,8 +46,6 @@ A learning project demonstrating unit testing in JavaScript using Mocha and Chai
 
 ## Project Overview
 
-This project demonstrates automated unit testing in JavaScript using Mocha and Chai.
-
 Implemented validators:
 
 - Calculator
@@ -54,15 +53,15 @@ Implemented validators:
 - StringValidator
 - DateValidator
 
-The project includes:
+Project features:
 
-- 80 automated tests
+- 80 automated unit tests
 - 100% code coverage
 - HTML test reports (Mochawesome)
-- Data-driven tests
+- Data-driven testing
 - Boundary Value Analysis
 - Edge Case testing
-- Exception handling tests
+- Exception handling
 
 ---
 
@@ -140,17 +139,32 @@ npm run coverage
 
 ## Implemented Components
 
-This project was created as part of JavaScript Unit Testing practice.
+### Calculator
 
-Implemented tests for:
+- add()
+- divide()
 
-- Calculator
-- Number validation
-- Integer validation
-- Even number validation
-- Array validation
-- Exception handling
-- Date Validator
+### NumbersValidator
+
+- isNumber()
+- isInteger()
+- isNumberEven()
+- getEvenNumbersFromArray()
+- isAllNumbers()
+
+### StringValidator
+
+- isString()
+- isEmpty()
+- hasMinLength()
+
+### DateValidator
+
+- isDate()
+- isLeapYear()
+- isWeekday()
+- isFutureDate()
+- isPastDate()
 
 ---
 
@@ -158,13 +172,15 @@ Implemented tests for:
 
 This project demonstrates several software testing techniques:
 
-- ✅ Positive Testing
-- ✅ Negative Testing
-- ✅ Boundary Value Analysis (BVA)
-- ✅ Edge Case Testing
-- ✅ Exception Testing
-- ✅ Data-driven Testing
-- ✅ Code Coverage Analysis
+| Technique | Status |
+|-----------|:------:|
+| Positive Testing | ✅ |
+| Negative Testing | ✅ |
+| Boundary Value Analysis | ✅ |
+| Edge Case Testing | ✅ |
+| Exception Testing | ✅ |
+| Data-driven Testing | ✅ |
+| Code Coverage Analysis | ✅ |
 
 ---
 
