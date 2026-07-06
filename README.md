@@ -5,6 +5,7 @@
 ![Mocha](https://img.shields.io/badge/Test-Mocha-brown)
 ![Chai](https://img.shields.io/badge/Assertions-Chai-red)
 ![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
+[![JavaScript Unit Tests](https://github.com/pilyaria/javascript-unit-testing-practice/actions/workflows/tests.yml/badge.svg)](https://github.com/pilyaria/javascript-unit-testing-practice/actions/workflows/tests.yml)
 
 This repository showcases practical JavaScript unit testing skills and modern testing techniques commonly used in QA Automation.
 
